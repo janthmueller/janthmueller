@@ -26,3 +26,8 @@ Welcome to my personal website! Here, I share my ideas, showcase the projects I�
 </ul>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#6](https://github.com/janthmueller/swizzle/issues/6) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
+2. ❗ Opened issue [#5](https://github.com/janthmueller/swizzle/issues/5) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
+3. 💪 Opened PR [#32](https://github.com/benhoneywill/stoic-quotes/pull/32) in [benhoneywill/stoic-quotes](https://github.com/benhoneywill/stoic-quotes)
+4. 🗣 Commented on [#417](https://github.com/VainF/Torch-Pruning/issues/417#issuecomment-2440157523) in [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning)
+<!--END_SECTION:activity-->
