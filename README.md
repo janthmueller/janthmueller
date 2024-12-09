@@ -12,7 +12,7 @@ Welcome to my personal website! Here, I share my ideas, showcase the projects Iâ
 <h2>Pinned Projects</h2>
 <ul>
   <li>
-    <a href="https://github.com/janthmueller/Stoic-Quote-Of-The-Day" target="_blank"><b>Stoic-Quote-Of-The-Day</b></a>: 
+    <a href="https://stoic-quote.jantmueller.com" target="_blank"><b>Stoic-Quote-Of-The-Day</b></a>: 
     Daily Stoic quotes with GPT-powered interpretations, updated via GitHub scheduled actions.
   </li>
   <li>
