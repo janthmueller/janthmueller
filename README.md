@@ -1,8 +1,6 @@
-<h2>About Me</h2>
+<h2>About</h2>
 <p>
-My name is Jan, and I am passionate about automation through software solutions. With a background in computer vision and a keen interest in AI-based technologies, I strive to create impactful systems.
-
-Currently, I work as a Research Associate, focusing on multi-object tracking and neural network compression.
+Welcome to my personal website! Here, I share my ideas, showcase the projects I’m working on, and explore topics that interest me.
 </p>
 
 <h2>Publications</h2>
