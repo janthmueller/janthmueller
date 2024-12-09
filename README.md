@@ -1,61 +1,32 @@
-<h1 align="center">Hi there, I'm Jan 👋</h1>
-
-<p align="center">
-  <em>Passionate about AI, Computer Vision, and building efficient solutions for challenging problems.</em>
-</p>
+<p align="center">Research Associate | Developer | Innovator</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔬 **Research Associate** specializing in state-of-the-art AI models.
-- 🧠 Background in **Applied Mathematics** (B.Sc.) and **Applied Computer Science** (M.Sc.).
-- 🚀 Focused on **multi-object tracking** and various **neural network compression techniques**.
+<h2>About Me</h2>
+<p>
+My name is Jan, and I am passionate about automation through software solutions. With a background in computer vision and a keen interest in AI-based technologies, I strive to create impactful systems.
 
-### 🔧 Tech Stack
-
-
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+Currently, I work as a Research Associate, focusing on multi-object tracking and neural network compression.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" height="20"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" height="20"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="20"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="20"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="20"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" height="20"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="20"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" height="20"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" height="20"/>
-</p>
+<h2>Publications</h2>
+<ul>
+  <li><a href="https://arxiv.org/abs/2410.08769" target="_blank">Efficient Multi-Object Tracking on Edge Devices via Reconstruction-Based Channel Pruning</a></li>
+  <li><a href="https://medium.com/@mail_55998/simplifying-complex-attribute-access-in-python-with-swizzle-8774ffa75b1f" target="_blank">Simplifying Complex Attribute Access in Python with Swizzle</a></li>
+</ul>
 
-
-
-<p align="center">
-  <em>...and more</em>
-</p>
-
-### 📄 Publications and Articles
-- [**arXiv**: *Multi-Object Tracking on Edge Devices via Channel Pruning*](https://arxiv.org/abs/2410.08769)
-- [**Medium**: *Simplifying Complex Attribute Access in Python with Swizzle*](https://medium.com/@mail_55998/simplifying-complex-attribute-access-in-python-with-swizzle-8774ffa75b1f)
-
----
-
-### 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/jan-müller-568aba166" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" style="margin-right:10px;"/></a>
-  <a href="mailto:mail@jantmueller.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" height="20"/></a>
-</p>
-
-
-<p align="center">🌟 Thanks for stopping by, and happy coding! 🌟</p>
-
-
-
+<h2>Pinned Projects</h2>
+<ul>
+  <li>
+    <a href="https://github.com/janthmueller/Stoic-Quote-Of-The-Day" target="_blank"><b>Stoic-Quote-Of-The-Day</b></a>: 
+    Daily Stoic quotes with GPT-powered interpretations, updated via GitHub scheduled actions.
+  </li>
+  <li>
+    <a href="https://github.com/janthmueller/swizzle" target="_blank"><b>Swizzle</b></a>: 
+    A Python package that enhances attribute access, allowing for flexible retrieval of multiple attributes based on specified arrangements of their names.
+  </li>
+  <li>
+    <a href="https://github.com/janthmueller/2D-Raycasting" target="_blank"><b>2D-Raycasting</b></a>: 
+    A simple 2D raycasting simulation built with Pygame.
+  </li>
+</ul>
