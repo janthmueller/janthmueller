@@ -24,6 +24,7 @@ Welcome to my personal website! Here, I share my ideas, showcase the projects I‚
     A simple 2D raycasting simulation built with Pygame.
   </li>
 </ul>
+<h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
 1. ‚ùó Opened issue [#6](https://github.com/janthmueller/swizzle/issues/6) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
