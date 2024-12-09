@@ -1,6 +1,6 @@
 <h2>About</h2>
 <p>
-Welcome to my personal website! Here, I share my ideas, showcase the projects I’m working on, and explore topics that interest me.
+Welcome to my personal site! Here, I share my ideas, showcase the projects I’m working on, and explore topics that interest me.
 </p>
 
 <h2>Publications</h2>
