@@ -24,3 +24,5 @@ Welcome to my personal website! Here, I share my ideas, showcase the projects Iâ
     A simple 2D raycasting simulation built with Pygame.
   </li>
 </ul>
+
+<!--START_SECTION:activity-->
