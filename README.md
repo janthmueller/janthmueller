@@ -1,7 +1,3 @@
-<p align="center">Research Associate | Developer | Innovator</p>
-
----
-
 <h2>About Me</h2>
 <p>
 My name is Jan, and I am passionate about automation through software solutions. With a background in computer vision and a keen interest in AI-based technologies, I strive to create impactful systems.
