@@ -16,12 +16,12 @@ Welcome to my personal site! Here, I share my ideas, showcase the projects I’m
     Daily Stoic quotes with GPT-powered interpretations, updated via GitHub scheduled actions.
   </li>
   <li>
-    <a href="https://github.com/janthmueller/swizzle" target="_blank"><b>Swizzle</b></a>: 
-    A Python package that enhances attribute access, allowing for flexible retrieval of multiple attributes based on specified arrangements of their names.
+    <a href="https://github.com/janthmueller/delete-me-discord" target="_blank"><b>Delete Me Discord</b></a>: 
+    A command-line tool designed to help Discord users delete their messages across multiple channels based on time or message count criteria.
   </li>
   <li>
-    <a href="https://github.com/janthmueller/2D-Raycasting" target="_blank"><b>2D-Raycasting</b></a>: 
-    A simple 2D raycasting simulation built with Pygame.
+    <a href="https://github.com/janthmueller/swizzle" target="_blank"><b>Swizzle</b></a>: 
+    A Python package that enhances attribute access, allowing for flexible retrieval of multiple attributes based on specified arrangements of their names.
   </li>
 </ul>
 <h2>Recent Activity</h2>
