@@ -1,5 +1,6 @@
 ---
 title: About
+hide_header: true
 ---
 
 <div style="display: flex; align-items: center;">
@@ -10,4 +11,3 @@ title: About
     Currently, I work as a Research Associate, focusing on multi-object tracking and neural network compression.
   </div>
 </div>
-
