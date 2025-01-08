@@ -1,0 +1,8 @@
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+// Custom rule to hide titles
+.hide-title h1 {
+  display: none;
+}
