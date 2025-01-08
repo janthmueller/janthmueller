@@ -11,6 +11,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+sass:
+  load_paths:
+    - _sass
+    - _styles
+
 minima:
   skin: dark
   header_pages:
