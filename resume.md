@@ -6,7 +6,7 @@ hide_header: true
 <object id="pdf-viewer" width="100%" height="600" type="application/pdf"
         data="{{ '/assets/en/resume.pdf#zoom=85&scrollbar=0&toolbar=0&navpanes=0' | relative_url }}">
   <p>Your browser does not support PDFs.
-    <a id="pdf-link" href="{{ '/assets/en/resume.pdf' | relative_url }}">Download the PDF</a>.
+    <a id="pdf-link" href="{{ '/assets/en/resume.pdf' | relative_url }}">Open the PDF</a>.
   </p>
 </object>
 
@@ -19,7 +19,7 @@ hide_header: true
     margin-right: 15px;">
     Switch to German
   </a>
-  <a id="download-pdf" href="{{ '/assets/en/resume.pdf' | relative_url }}" style="
+  <a id="download-pdf" href="{{ '/assets/en/resume.pdf' | relative_url }}" download="resume.pdf" style="
     color: #1E90FF;
     text-decoration: underline;
     cursor: pointer;
@@ -33,19 +33,18 @@ hide_header: true
 
   function togglePDF() {
     const pdfViewer = document.getElementById('pdf-viewer');
-    const pdfLink = document.getElementById('pdf-link');
     const downloadLink = document.getElementById('download-pdf');
     const toggleLink = document.getElementById('toggle-pdf');
 
     if (isEnglish) {
       pdfViewer.data = "{{ '/assets/de/resume.pdf#zoom=85&scrollbar=0&toolbar=0&navpanes=0' | relative_url }}";
-      pdfLink.href = "{{ '/assets/de/resume.pdf' | relative_url }}";
       downloadLink.href = "{{ '/assets/de/resume.pdf' | relative_url }}";
+      downloadLink.setAttribute("download", "resume_de.pdf");
       toggleLink.textContent = "Switch to English";
     } else {
       pdfViewer.data = "{{ '/assets/en/resume.pdf#zoom=85&scrollbar=0&toolbar=0&navpanes=0' | relative_url }}";
-      pdfLink.href = "{{ '/assets/en/resume.pdf' | relative_url }}";
       downloadLink.href = "{{ '/assets/en/resume.pdf' | relative_url }}";
+      downloadLink.setAttribute("download", "resume_en.pdf");
       toggleLink.textContent = "Switch to German";
     }
 
