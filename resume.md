@@ -19,7 +19,7 @@ hide_header: true
     Switch to German
   </a>
   <span style="border-left: 1px solid; height: 16px; margin: 0 10px;"></span>
-  <a id="download-pdf" href="{{ '/assets/en/resume.pdf' | relative_url }}" download="resume.pdf" style="
+  <a id="download-pdf" href="{{ '/assets/en/resume.pdf' | relative_url }}" download="resume_en.pdf" style="
     text-decoration: none;
     cursor: pointer;
     font-size: 16px;">
@@ -49,4 +49,10 @@ hide_header: true
 
     isEnglish = !isEnglish;
   }
+
+  // Ensure the correct initial download name is set on page load
+  document.addEventListener('DOMContentLoaded', () => {
+    const downloadLink = document.getElementById('download-pdf');
+    downloadLink.setAttribute("download", "resume_en.pdf");
+  });
 </script>
