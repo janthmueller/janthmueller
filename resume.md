@@ -10,18 +10,17 @@ hide_header: true
   </p>
 </object>
 
-<div style="text-align: center; margin-top: 10px;">
+<div style="text-align: center; margin-top: 10px; display: flex; justify-content: center; align-items: center;">
   <a id="toggle-pdf" onclick="togglePDF()" style="
-    color: #1E90FF;
-    text-decoration: underline;
+    text-decoration: none;
     cursor: pointer;
     font-size: 16px;
-    margin-right: 15px;">
+    margin-right: 10px;">
     Switch to German
   </a>
+  <span style="border-left: 1px solid; height: 16px; margin: 0 10px;"></span>
   <a id="download-pdf" href="{{ '/assets/en/resume.pdf' | relative_url }}" download="resume.pdf" style="
-    color: #1E90FF;
-    text-decoration: underline;
+    text-decoration: none;
     cursor: pointer;
     font-size: 16px;">
     Download PDF
