@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
   <img src="{{ site.baseurl }}/assets/images/profile_picture.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; margin-right: 20px;" />
   <div>
-    Hi, I'm Jan! I create impactful systems by combining automation, computer vision, and AI-based technologies. Currently, I work as a Research Associate, focusing on multi-object tracking and neural network compression.
+    Hi, I'm Jan! Welcome to my personal site—where I share ideas, showcase the projects I'm working on, and explore topics that interest me.
   </div>
 </div>
 
