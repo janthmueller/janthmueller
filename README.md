@@ -35,3 +35,10 @@
 3. ❗ Opened issue [#5](https://github.com/janthmueller/swizzle/issues/5) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 4. 💪 Opened PR [#32](https://github.com/benhoneywill/stoic-quotes/pull/32) in [benhoneywill/stoic-quotes](https://github.com/benhoneywill/stoic-quotes)
 <!--END_SECTION:activity-->
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@jantmueller.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jantmueller)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.jantmueller.com/assets/en/resume.pdf)
+
