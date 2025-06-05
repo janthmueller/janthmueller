@@ -1,6 +1,6 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <p>
-  <img src="https://static.wikia.nocookie.net/umineko/images/2/2a/Okabe1_mei_battle.png" alt="Okabe Sprite" width="120" hspace="20">
+  <img src="https://static.wikia.nocookie.net/umineko/images/2/2a/Okabe1_mei_battle.png" alt="Okabe Sprite" width="110" hspace="50">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
