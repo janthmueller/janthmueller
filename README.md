@@ -1,29 +1,16 @@
-<h2>About</h2>
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <p>
-Welcome to my personal site! Here, I share my ideas, showcase the projects I’m working on, and explore topics that interest me.
+  <img src="https://static.wikia.nocookie.net/umineko/images/2/2a/Okabe1_mei_battle.png" alt="Okabe Sprite" width="120" hspace="20">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
-<h2>Publications</h2>
-<ul>
-  <li><a href="https://arxiv.org/abs/2410.08769" target="_blank">Efficient Multi-Object Tracking on Edge Devices via Reconstruction-Based Channel Pruning</a></li>
-  <li><a href="https://medium.com/@mail_55998/simplifying-complex-attribute-access-in-python-with-swizzle-8774ffa75b1f" target="_blank">Simplifying Complex Attribute Access in Python with Swizzle</a></li>
-</ul>
+---
 
-<h2>Pinned Projects</h2>
-<ul>
-  <li>
-    <a href="https://stoic-quote.jantmueller.com" target="_blank"><b>Stoic-Quote-Of-The-Day</b></a>: 
-    Daily Stoic quotes with GPT-powered interpretations, updated via GitHub scheduled actions.
-  </li>
-  <li>
-    <a href="https://github.com/janthmueller/delete-me-discord" target="_blank"><b>Delete Me Discord</b></a>: 
-    A command-line tool designed to help Discord users delete their messages across multiple channels based on time or message count criteria.
-  </li>
-  <li>
-    <a href="https://github.com/janthmueller/swizzle" target="_blank"><b>Swizzle</b></a>: 
-    A Python package that enhances attribute access, allowing for flexible retrieval of multiple attributes based on specified arrangements of their names.
-  </li>
-</ul>
+
+<img src="https://github-profile-trophy.vercel.app/?username=janthmueller&rank=-C,-?&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+
+
+
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
