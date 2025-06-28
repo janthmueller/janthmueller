@@ -30,7 +30,7 @@
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#368](https://github.com/VainF/Torch-Pruning/pull/368) in [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning)
+1. 🗣 Commented on [#5](https://github.com/janthmueller/swizzle/issues/5#issuecomment-3015055695) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 2. ❌ Closed PR [#32](https://github.com/benhoneywill/stoic-quotes/pull/32) in [benhoneywill/stoic-quotes](https://github.com/benhoneywill/stoic-quotes)
 3. ❗ Opened issue [#5](https://github.com/janthmueller/swizzle/issues/5) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 4. 💪 Opened PR [#32](https://github.com/benhoneywill/stoic-quotes/pull/32) in [benhoneywill/stoic-quotes](https://github.com/benhoneywill/stoic-quotes)
