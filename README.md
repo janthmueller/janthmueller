@@ -30,10 +30,10 @@
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/janthmueller/swizzle/issues/5) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
-2. 🔒 Closed issue [#7](https://github.com/janthmueller/swizzle/issues/7) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
-3. 🗣 Commented on [#7](https://github.com/janthmueller/swizzle/issues/7#issuecomment-3033240517) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
-4. 🗣 Commented on [#5](https://github.com/janthmueller/swizzle/issues/5#issuecomment-3015970200) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
+1. 🗣 Commented on [#6](https://github.com/janthmueller/swizzle/issues/6#issuecomment-3069169231) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
+2. 🔒 Closed issue [#6](https://github.com/janthmueller/swizzle/issues/6) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
+3. 🔒 Closed issue [#5](https://github.com/janthmueller/swizzle/issues/5) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
+4. 🔒 Closed issue [#7](https://github.com/janthmueller/swizzle/issues/7) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 <!--END_SECTION:activity-->
 
 ## Connect
