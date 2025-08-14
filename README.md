@@ -36,8 +36,3 @@
 4. 🔒 Closed issue [#6](https://github.com/janthmueller/swizzle/issues/6) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 <!--END_SECTION:activity-->
 
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@jantmueller.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jantmueller)
-
