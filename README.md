@@ -30,8 +30,8 @@
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1372](https://github.com/microsoft/markitdown/pull/1372#issuecomment-3141661321) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
-2. 🚀 Published release [Release v0.0.8 — Insert Stoic Quote into files](https://github.com/janthmueller/insert-stoic-quote/releases/tag/v0.0.8) in [janthmueller/insert-stoic-quote](https://github.com/janthmueller/insert-stoic-quote)
+1. 💪 Opened PR [#69](https://github.com/MarceColl/zen-browser-flake/pull/69) in [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake)
+2. 🗣 Commented on [#1372](https://github.com/microsoft/markitdown/pull/1372#issuecomment-3141661321) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
 3. 🗣 Commented on [#6](https://github.com/janthmueller/swizzle/issues/6#issuecomment-3069169231) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 4. 🔒 Closed issue [#6](https://github.com/janthmueller/swizzle/issues/6) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 <!--END_SECTION:activity-->
