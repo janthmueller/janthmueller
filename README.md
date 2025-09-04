@@ -30,9 +30,9 @@
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/MarceColl/zen-browser-flake/pull/69) in [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake)
-2. 🗣 Commented on [#1372](https://github.com/microsoft/markitdown/pull/1372#issuecomment-3141661321) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
-3. 🗣 Commented on [#6](https://github.com/janthmueller/swizzle/issues/6#issuecomment-3069169231) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
+1. ❌ Closed PR [#69](https://github.com/MarceColl/zen-browser-flake/pull/69) in [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake)
+2. 🗣 Commented on [#23](https://github.com/GEIGEIGEIST/TOTEM/issues/23#issuecomment-3253483933) in [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM)
+3. 💪 Opened PR [#69](https://github.com/MarceColl/zen-browser-flake/pull/69) in [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake)
 4. 🔒 Closed issue [#6](https://github.com/janthmueller/swizzle/issues/6) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
 <!--END_SECTION:activity-->
 
