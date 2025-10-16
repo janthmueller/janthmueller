@@ -2,9 +2,6 @@
 
 I’m Jan. I’m into software engineering, computer vision, and deep learning, and I enjoy exploring new tech and building things.
 
-## Trophy Case
-<img src="https://github-profile-trophy.vercel.app/?username=janthmueller&rank=-C,-?&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-
 ## Tech I enjoy
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -23,6 +20,10 @@ I’m Jan. I’m into software engineering, computer vision, and deep learning, 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=flat-square&logo=vim&logoColor=white)
+
+---
+<img src="https://github-profile-trophy.vercel.app/?username=janthmueller&rank=-C,-?&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+
 
 <h2>Recent Activity</h2>
 
