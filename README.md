@@ -1,12 +1,9 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-<p>
-  <img src="https://static.wikia.nocookie.net/umineko/images/2/2a/Okabe1_mei_battle.png" alt="Okabe Sprite" width="110" hspace="40">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
-</p>
 
----
+I’m Jan. I’m into software engineering, computer vision, and deep learning, and I enjoy exploring new tech and building things.
 
-<img src="https://github-profile-trophy.vercel.app/?username=janthmueller&rank=-C,-?&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+## Trophy Case
+<img src="https://github-profile-trophy.vercel.app/?username=janthmueller&rank=-C,-?&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 
 ## Tech I enjoy
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=flat-square&logo=python&logoColor=white)
