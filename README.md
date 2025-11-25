@@ -28,7 +28,7 @@ I’m Jan. I’m into software engineering, computer vision, and deep learning, 
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#69](https://github.com/MarceColl/zen-browser-flake/pull/69) in [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake)
+1. 🗣 Commented on [#2](https://github.com/janthmueller/delete-me-discord/issues/2#issuecomment-3575750432) in [janthmueller/delete-me-discord](https://github.com/janthmueller/delete-me-discord)
 2. 🗣 Commented on [#23](https://github.com/GEIGEIGEIST/TOTEM/issues/23#issuecomment-3253483933) in [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM)
 3. 💪 Opened PR [#69](https://github.com/MarceColl/zen-browser-flake/pull/69) in [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake)
 4. 🔒 Closed issue [#6](https://github.com/janthmueller/swizzle/issues/6) in [janthmueller/swizzle](https://github.com/janthmueller/swizzle)
